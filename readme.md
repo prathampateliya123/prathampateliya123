@@ -7,12 +7,7 @@
 
 <h3><code>pratham@github ~ $ whoami</code></h3>
 
-<table>
-<tr>
-<td valign="top"><img src="./pratham-ascii.svg" width="370" alt="Pratham Patel — ASCII portrait" /></td>
-<td valign="top"><img src="./wordmark.svg" width="490" alt="PRATHAM — 3D ASCII wordmark" /></td>
-</tr>
-</table>
+<img src="./wordmark.svg" width="490" alt="PRATHAM — 3D ASCII wordmark" />
 
 <br>
 <br>
